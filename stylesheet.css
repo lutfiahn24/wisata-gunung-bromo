@@ -28,12 +28,14 @@ a {
 }
 .main {
     height: 404px;
+    border: solid black;
 }
 .main img {
     width: 100%;
     opacity: 0.6;
     position: relative;
     height: 405px;
+     border: solid black;
 }
 .main h1 {
     position: absolute;
